@@ -134,6 +134,7 @@ const font9 = css({
 })
 
 export {
+    globalfont,
     primary,
     bg1,
     gradient1,
